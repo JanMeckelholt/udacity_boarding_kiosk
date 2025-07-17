@@ -1,0 +1,7 @@
+Passanger Name,Carrier ,Flight No.,Class,From,To,Date,Baggage,Seat,Gate,Boarding Time,Ticket No.,Date of Birth
+Sameer Kumar,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,34A,G1,10:00 AM PST,34236746,1970-12-15
+Radha S. Kumar,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,34B,G1,10:00 AM PST,34236747,1970-12-15
+James Webb,UA,234,Business,San Francisco,Chicago,"April 20, 2022",No,1A,G1,10:00 AM PST,34236748,1970-12-15
+Libby Herold,UA,234,Business,San Francisco,Chicago,"April 20, 2022",No,3D,G1,10:00 AM PST,34236749,1970-12-15
+James Jackson,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",YES,25B,G1,10:00 AM PST,34236750,1970-12-15
+Avkash Chauhan,UA,234,Economy,San Francisco,Chicago,"April 20, 2022",No,20A,G1,10:00 AM PST,34236751,1970-12-15
